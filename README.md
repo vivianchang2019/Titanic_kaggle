@@ -30,4 +30,4 @@ Task:
 
 #### Kaggle submission result
 
-![submission result](result/Titanic.jpg)
+![submission result](https://github.com/vivianchang2019/Titanic_kaggle/blob/master/result/Titanic.JPG?raw=true)
